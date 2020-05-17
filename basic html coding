@@ -1,0 +1,55 @@
+BOLD FONT:
+
+<b> Your Text </b> (Shortcut: CTRL + B / COMMAND + B on a Mac)
+
+ITALIC FONT:
+
+<i> Your Text </i> (Shortcut: CTRL + I / COMMAND + I on a Mac)
+
+UNDERLINED TEXT:
+
+<u> Your Text </u> (Shortcut: CTRL + U / COMMAND + U on a Mac)
+
+CROSSED OUT TEXT:
+
+<stroke> Your Text </stroke>
+
+CENTERED TEXT:
+
+<center> Your Text </center>
+
+JUSTIFIED TEXT:
+
+<div align=“justify”> Your Text </div> (You can also replace “justify” with “center”, “right” or “left”)
+
+TO MAKE A LINK IN TEXT:
+
+<a href=“URL”> Your Text </a>
+
+TO START A NEW LINE:
+
+<br> Your text. (This does not have a closing tag.)
+
+TO START A NEW PARAGRAPH:
+
+<p> Your text. (This does not have a closing tag.)
+
+DIVIDER:
+
+<hr> (Does not have a closing tag, it simply adds a line between two bodies of text.)
+
+HEADER:
+
+<h1> Your Text </h1>
+
+Smaller headers:
+
+<h2> Your Text </h2>, <h3> Your Text </h3>, etc.
+
+CHANGE FONT SIZE:
+
+<font size=“1”> Your Text </font> (You can change the number, they range from 1 being the smallest to 10 being the largest.)
+
+CHANGE FONT COLOR:
+
+<font color=“#000000”> Your Text </font> (You can change the color by changing the code. You can get more color codes here.)
